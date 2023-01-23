@@ -12,3 +12,5 @@ Our mods can be easily installed by following these steps:
 - Enjoy the enhanced MooMoo.io experience!
 
 **Disclaimer**: Our mods are not affiliated with or endorsed by the official MooMoo.io game or its creators. Use them at your own risk.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MooMooForge&label=Profile%20views&color=0e75b6&style=flat" alt="MooMooForge" /> </p>
